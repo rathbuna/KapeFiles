@@ -23,7 +23,7 @@ Targets:
         FileMask: passwordForms.dat
         Comment: "Grabs a file that stores some saved password data"
     -
-        Name: Puffin - Password (Encrypted)
+        Name: Puffin - Passwords (Encrypted)
         Category: Communications
         Path: C:\Users\%user%\AppData\Local\PuffinSecureBrowser
         FileMask: credential.dat
@@ -56,4 +56,3 @@ Targets:
 # "subscription" was a file without a file extension (viewable in a text editor) that showed the fake email I used to set up my trial with Puffin. 
 # The image_cache folder will store what appears to be .JPG files but as .ci0 files. I was able to view all the images with IrfanView despite the proprietary file extension.
 ######
-
